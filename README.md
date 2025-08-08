@@ -28,5 +28,3 @@ You can contact me by some of these means or see some things I know how to do. I
 
 
 ---
-
-* [🌐 Web Site](https://alexclient.shop/) for more info...
