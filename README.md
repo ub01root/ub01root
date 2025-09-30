@@ -17,7 +17,7 @@ These are some of the languages I know to date.
 # ``🗂 Tools``
 These are some of the tools that I use every day, or those that I have used and know how to use the advanced/basic.
 
-![My Skill](https://skillicons.dev/icons?i=vscode) ![My Skill](https://skillicons.dev/icons?i=idea) ![My Skill](https://skillicons.dev/icons?i=kotlin)
+![My Skill](https://skillicons.dev/icons?i=vscode) ![My Skill](https://skillicons.dev/icons?i=idea) ![My Skill](https://skillicons.dev/icons?i=phpstorm)
  
 
 
