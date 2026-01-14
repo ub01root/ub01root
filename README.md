@@ -6,7 +6,8 @@ I'm **Root**, a guy who likes programming and learning new things, who now knows
 * Developer of discord bots.
 * Software Developer
 
-Ceo @ **BlackListX** | https://blacklistx.pw
+Ceo @ **BlackListX** | https://blacklistx.pw (**Out of service**)
+Ceo @ **Imperior Development** | https://discord.gg/pNrAYfuwAS (**In working**)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/381816029426221057)](https://discord.com/users/381816029426221057)
 
