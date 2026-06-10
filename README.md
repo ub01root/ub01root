@@ -10,6 +10,8 @@ Ceo @ **BlackListX** | https://blacklistx.pw (**Out of service**)
 
 Ceo @ **Imperior Development** | https://discord.gg/pNrAYfuwAS (**In working**)
 
+Ceo @ **SecurityX** | https://discord.securityx.sbs (**In Working**)
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/381816029426221057)](https://discord.com/users/381816029426221057)
 
 
