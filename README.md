@@ -28,6 +28,20 @@ I enjoy developing backend systems, modern web applications, Minecraft server to
 - 🤖 Discord bots & integrations
 - 🚀 Continuous learning and innovation
 
+```javascript
+const developer = {
+  name: "UserRoot,
+  role: "Software Developer",
+  interests: [
+    "Backend Engineering",
+    "Full-Stack Development",
+    "Minecraft Development",
+    "Discord Integrations"
+  ],
+  philosophy: "Build. Learn. Improve."
+};
+```
+
 ---
 
 ## 🚀 My Projects
