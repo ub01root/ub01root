@@ -1,4 +1,4 @@
-# Hey, I'm Root 👋
+<h1 align="center">Hey, I'm Root 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=E53935&center=true&vCenter=true&width=600&lines=Software+Developer;Backend+%26+Full-Stack+Developer;Minecraft+%26+Discord+Developer;Turning+ideas+into+reality." alt="Typing SVG" />
