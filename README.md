@@ -5,8 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ub01root">
-    <img src="https://img.shields.io/badge/GitHub-ub01root-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="https://discord.com/users/381816029426221057">
     <img src="https://img.shields.io/badge/Discord-Contact-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
@@ -102,7 +100,6 @@ I enjoy developing backend systems, modern web applications, Minecraft server to
 ## 🤝 Connect With Me
 
 <p>
-  <a href="https://github.com/ub01root">GitHub</a> ·
   <a href="https://discord.com/users/381816029426221057">Discord</a> ·
   <a href="https://www.instagram.com/alexclient/">Instagram</a>
 </p>
